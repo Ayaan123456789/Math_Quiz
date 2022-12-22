@@ -1,0 +1,55 @@
+.span1{
+    display: inline;
+} 
+
+
+
+
+
+body{
+    background-color: rgb(37, 195, 239);
+    text-align: center;
+    font-family: 'Rubik Distressed', cursive;
+}
+
+div{
+    background-color: rgb(244, 11, 38);
+    text-align: center;
+    max-width: 700px;
+    min-width: 100px;
+    border-radius: 50%;
+
+}
+
+#output{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
